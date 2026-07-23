@@ -1,5 +1,5 @@
 # Evil Spotify
-Evil Spotify is a local music player that has no ads.
+Evil Spotify is a local music player that has no ads and features a 432hz tone Transpose switch.
 
 INSTALL (LINUX):
 1. cd evil-spotify-linux
